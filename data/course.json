@@ -42,7 +42,10 @@
     "content": "227439e0-f004-c9e0-5401-bfc9a552c34e",
     "website": "res-15-005-healthcare-finance-15-482x-spring-2019"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
   "site_uid": "14ff4a68-6b87-4fc8-97e8-704a6bc5c793",
   "site_short_id": "res.15-005-spring-2019",
   "title": "Course Metadata"
