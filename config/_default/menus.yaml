@@ -2,4 +2,8 @@ leftnav:
 - identifier: bea2d3e0-828f-4b0d-a606-f49fd72b836c
   name: Online Publication
   pageRef: /external-resources/online-publication_bea2d3e0-828f-4b0d-a606-f49fd72b836c
-  weight: 1000
+  weight: 10
+- identifier: f01a34a4-7f7d-4223-93a9-bd8eb47cd4c1
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
